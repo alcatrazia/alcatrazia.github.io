@@ -34,10 +34,15 @@ body {
 	text-align: center;
 }
 
+.avatar {
+	width: 150px;
+	height: auto;
+}
+
 .title .big {
-	font: 900 90px "robotobold", Helvetica, Arial, sans-serif;
+	font: 900 70px "robotothin", Helvetica, Arial, sans-serif;
 	letter-spacing: -2px;
-	color: #C2185B;
+	color: #E91E63;
 }
 
 .title .small {
